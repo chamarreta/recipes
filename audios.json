@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Meditación Profunda",
-    "url": "https://github.com/chamarreta/recipes/raw/refs/heads/master/reiki_audio.mp3",
+    "url": "https://raw.githubusercontent.com/chamarreta/recipes/refs/heads/master/reiki_audio.mp3",
     "durationMs": 30000
   }
 ]
